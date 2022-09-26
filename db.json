@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "id": 0,
+      "email": "uprock@mail.com",
+      "password": "qqwwaass",
+      "status": "admin",
+      "avatar": "user-1.png"
+    },
+    {
+      "id": 1,
+      "email": "startup@mail.com",
+      "password": "zxcvbn",
+      "status": "manager",
+      "avatar": "user-2.png"
+    }
+  ]
+}
