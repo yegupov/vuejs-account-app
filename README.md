@@ -5,7 +5,7 @@ Vue.js, Json-server, Pug, Scss
 The application that implements the authentication process consists of 2 pages: an authentication form and a user profile. The login form is displayed on the main page. The user profile page displays user data. It can be a simple table. No mechanism for editing user data. Implemented adaptability.    
 **Author**: [`Gennady Yegupov`](https://github.com/yegupov)
 
-![library-gif-1](https://user-images.githubusercontent.com/44179657/154436316-3eb8645b-8b98-429a-b110-9b235e5a7002.gif)
+![app-gif](https://user-images.githubusercontent.com/44179657/192278862-3fc9c7a3-8d7e-4313-b547-ef2d205fd366.gif)
 
 ## Quick Start
 To run this app, clone the repository and install dependencies:
